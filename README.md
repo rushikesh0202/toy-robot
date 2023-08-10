@@ -4,6 +4,6 @@
 - ToyRobotSimulator.php class contains functions of toy robot positioning and exec_commands.php using this we can give commands to robots.
 - All cases of inputs is considered while running the application.
 - Follow the steps to run the application,
-  a. Download this repo.
+  a. Download this repo and extract zip.
   b. Put into htdocs folder.
   C. run application by hitting url http://localhost/toy-robot/exec_commands.php
